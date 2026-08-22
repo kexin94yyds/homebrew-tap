@@ -1,6 +1,6 @@
 cask "relearn" do
-  version "2.1.34"
-  sha256 "31f46af644578b40926794538ac96fafaf6fd5d6fbf5e95e98ce657b019acd82"
+  version "2.1.35"
+  sha256 "c4c75d71c14db96d55a9f9d47d60329b8dd724be7eb46d2ef83dca2fc9840594"
 
   url "https://github.com/kexin94yyds/relearn-releases/releases/download/v#{version}/relearn-#{version}-arm64.dmg"
   name "relearn"
